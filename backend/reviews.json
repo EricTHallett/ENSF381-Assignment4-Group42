@@ -1,0 +1,26 @@
+[
+    {
+        "customerName": "Alice Johnson",
+        "flavorName": "Vanilla Dream",
+        "review": "The ice cream was delicious and very creamy!",
+        "rating": 5
+    },
+    {
+        "customerName": "Gordon Ramscream",
+        "flavorName": "Chocolate Existential Crisis",
+        "review": "This is so undercooked it's questioning its own existence. Finally, something I can relate to.",
+        "rating": 4
+    },
+    {
+        "customerName": "Obi-Wan Cannoli",
+        "flavorName": "Mint Condition (Literally Coins)",
+        "review": "These are not the flavors you're looking for. Or maybe they are. I genuinely can't tell.",
+        "rating": 3
+    },
+    {
+        "customerName": "Heisenberry",
+        "flavorName": "Rocky Road Construction Zone",
+        "review": "I am the one who snacks. Also, I found gravel. I'm not asking questions.",
+        "rating": 2
+    }
+]
